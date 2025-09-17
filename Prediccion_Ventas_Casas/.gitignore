@@ -1,0 +1,11 @@
+# Archivos generados por el script
+modelo_casas.pkl
+arbol_decision.png
+casas_limpias.csv
+
+# Directorios de cache de Python
+__pycache__/
+*.pyc
+
+# Otros
+.ipynb_checkpoints
